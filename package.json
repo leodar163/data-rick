@@ -1,0 +1,17 @@
+{
+  "name": "data-rick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "neo4j-driver": "^5.28.1",
+    "openai": "^4.89.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  },
+  "private": true
+}
